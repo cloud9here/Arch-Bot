@@ -13,17 +13,23 @@
 
 Keep track of your server's activity with Arch's live leaderboard feature. Easily monitor user engagement and participation in various activities, fostering a sense of competition and community within your server.
 
-**Trigger Roles**
-`Automate role assignments based on specific triggers or actions. With Arch's trigger roles feature, you can streamline the process of managing roles for your members, ensuring they have access to the appropriate channels and privileges.`
+**Trigger Roles : **
 
-**Giveaway Moderation**
-`Hosting giveaways in your server? Let Arch handle the heavy lifting. From setting up giveaways to moderating entries and selecting winners, Arch simplifies the giveaway process, making it easy to reward your community and keep them engaged.`
+Automate role assignments based on specific triggers or actions. With Arch's trigger roles feature, you can streamline the process of managing roles for your members, ensuring they have access to the appropriate channels and privileges.
 
-**Music**
-`Turn your server into a virtual concert hall with Arch's music feature. Play your favorite tunes, create playlists, and groove with your friends—all without leaving Discord.`
+**Giveaway :**
+
+Hosting giveaways in your server? Let Arch handle the heavy lifting. From setting up giveaways to moderating entries and selecting winners, Arch simplifies the giveaway process, making it easy to reward your community and keep them engaged.
+**Moderation :**
+
+ you can use arch to moderate your server .
+**Music :**
+
+Turn your server into a virtual concert hall with Arch's music feature. Play your favorite tunes, create playlists, and groove with your friends—all without leaving Discord.
 
 **And More!**
-`Arch is constantly evolving with new features and updates. From moderation tools to entertainment options, Arch is designed to cater to the diverse needs of your Discord community.`
+ 
+ Arch is constantly evolving with new features and updates. From moderation tools to entertainment options, Arch is designed to cater to the diverse needs of your Discord community.
 
 # How to Use:
 
