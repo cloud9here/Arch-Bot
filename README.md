@@ -1,6 +1,6 @@
 
 **[Arch Discord Bot](https://discord.com/api/oauth2/authorize?client_id=1213860294301061122&permissions=8&scope=bot%20applications.commands)**
-![Arch Logo](https://images-ext-1.discordapp.net/external/vRGBbBPFr9CnJM_YIY7u7vyHO6jU4x4d7_1h2nRDfMI/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1213860294301061122/2287007792f1b1bf8f7868fa9643e1f2.png?format=webp&quality=lossless&width=662&height=662)
+![Arch Logo](https://images-ext-1.discordapp.net/external/vRGBbBPFr9CnJM_YIY7u7vyHO6jU4x4d7_1h2nRDfMI/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1213860294301061122/2287007792f1b1bf8f7868fa9643e1f2.png?format=webp&quality=high&width=256&height=256)
 
 
 `Arch is a multifunctional Discord bot developed by Ray, Shadow, and Adarsh. Packed with a plethora of features, Arch aims to enhance your Discord server experience by providing tools for moderation, entertainment, and engagement.`
