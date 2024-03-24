@@ -35,25 +35,25 @@ Turn your server into a virtual concert hall with Arch's music feature. Play you
 
 # How to Use:
 
-```Invite Arch to your server using the provided invite link```
+1. Invite Arch to your server using the provided invite link
 
-```Grant necessary permissions to Arch to ensure it functions smoothly.```
+2. Grant necessary permissions to Arch to ensure it functions smoothly.
 
-```Explore Arch's wide range of features using intuitive commands.```
+3. Explore Arch's wide range of features using intuitive commands.
 
-```Customize Arch's settings to suit your server's unique requirements.```
+4. Customize Arch's settings to suit your server's unique requirements.
 
-```Sit back, relax, and enjoy a seamlessly managed and entertaining Discord server experience with Arch.```
+5. Sit back, relax, and enjoy a seamlessly managed and entertaining Discord server experience with Arch.
 
 **[Support](https://discord.gg/archdev):**
 
-```For any questions, feedback, or assistance, feel free to join our support server or reach out to our development team directly. We're here to help you make the most out of Arch and create a vibrant community within your Discord server.```
+For any questions, feedback, or assistance, feel free to join our support server or reach out to our development team directly. We're here to help you make the most out of Arch and create a vibrant community within your Discord server.
 
 **Contributions:**
 
-```We welcome contributions from the community to help improve Arch and add new features. Whether you're a seasoned developer or a Discord enthusiast, there's a place for you in our open-source project. Check out our GitHub repository to get started.```
+We welcome contributions from the community to help improve Arch and add new features. Whether you're a seasoned developer or a Discord enthusiast, there's a place for you in our open-source project. Check out our GitHub repository to get started.
 
 **Get Started:**
-```Ready to elevate your Discord server with Arch? Invite the bot now and unlock a world of possibilities for moderation, engagement, and entertainment!```
+Ready to elevate your Discord server with Arch? Invite the bot now and unlock a world of possibilities for moderation, engagement, and entertainment!
 
 **[Invite Arch Now!](https://discord.com/api/oauth2/authorize?client_id=1213860294301061122&permissions=8&scope=bot%20applications.commands)**
