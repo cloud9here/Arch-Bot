@@ -50,7 +50,6 @@ class Bot(commands.AutoShardedBot):
 
         await self.load_extension("jishaku")
         await self.load_extension("Cogs.leaderboard")
-       # await self.load_extension("Cogs.spotify")
         await self.load_extension("Cogs.role")
         await self.load_extension("Cogs.extra")
         await self.load_extension("Cogs.owner")
@@ -58,8 +57,6 @@ class Bot(commands.AutoShardedBot):
         await self.load_extension("Cogs.giveaway_task")
         await self.load_extension("Cogs.help")
         await self.load_extension("Cogs.moderation")
-       # await self.load_extension("Cogs.anti")
-     #   await self.load_extension("Cogs.events")
         await self.load_extension("Cogs.auto")
         await self.load_extension("Cogs.mention")
         await self.load_extension("Cogs.autorole")
