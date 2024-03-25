@@ -6,7 +6,7 @@
 
 
 
-```Arch is a multifunctional Discord bot developed by Ray, Shadow , bazi. Packed with a plethora of features, Arch aims to enhance your Discord server experience by providing tools for moderation, entertainment, and engagement.```
+```Arch is a multifunctional Discord bot developed by Ray, Shadow , bazi & Adarsh packed with a plethora of features, Arch aims to enhance your Discord server experience by providing tools for moderation, entertainment, and engagement.```
 
 # Features:
 **Live Leadrbaord :**
