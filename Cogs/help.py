@@ -3,8 +3,8 @@ import asyncio
 from discord.ext import commands
 from discord import app_commands, SelectOption, Button
 from discord import ButtonStyle
-link1 = "https://discord.com/oauth2/authorize?client_id=1213860294301061122&permissions=8&scope=bot"
-link = "https://discord.com/invite/tWMWQhPcdb"
+link1 = "https://discord.com/oauth2/authorize?client_id=1221536273945202778&permissions=8&scope=bot"
+link = "https://discord.com/invite/w9B4fJjdP8"
 
 giveaway = "<:icon_GiveawayIcon:1214584516849696788>"
 Extra = "<:extra:1213546253649186926>"
