@@ -110,7 +110,7 @@ os.environ["JISHAKU_HIDE"] = "True"
 os.environ["JISHAKU_NO_UNDERSCORE"] = "True"
 os.environ["JISHAKU_FORCE_PAGINATOR"] = "True"
 
-ray = ""
+ray = "MTIyMTUzNjI3Mzk0NTIwMjc3OA.GQLlGn.7MnG6M0oPHiNorabIn5tFJDyhbl6I6-KEvRkJ4"
 
 
 async def main():
